@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+p {
+    color: aliceblue;
+}
+
+li {
+    color: aliceblue;
+}
